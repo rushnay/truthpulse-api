@@ -1,0 +1,1 @@
+{\n  \"name\": \"truthpulse-api\",\n  \"version\": \"1.0.0\",\n  \"main\": \"index.js\",\n  \"dependencies\": {\n    \"express\": \"^4.17.1\",\n    \"cors\": \"^2.8.5\"\n  }\n}
